@@ -1,4 +1,4 @@
-# 🧠 MRI Classifier for Alzheimer's Disease
+# 🧠 mri-classifier
 
 ## Introduction
 In this project convolutional neural networks will be applied on a dataset of MRI images with the aim of generating a model capable of predicting the degree ofAlzheimer's disease of any patient. We will focus on the detection of Alzheimer's disease and its different degrees based on 2D images of Magnetic Resonance Imaging(MRI) scans.
